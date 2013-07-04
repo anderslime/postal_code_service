@@ -1,3 +1,4 @@
+require 'sinatra'
 require './app/models/postal_code'
 
 class PostalCodeService < Sinatra::Base
