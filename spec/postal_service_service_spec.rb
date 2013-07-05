@@ -40,11 +40,6 @@ describe "The Postal Code JSON Web service" do
 
     context 'for individual postal codes' do
 
-      it 'should return a postal_name for a particular code' do
-        get '/dk/2500'
-        JSON.parse(last_response.body).should have_key 'postal_name'
-      end
-
       it 'should return the correct postal_name for Valby' do
         get '/dk/2500'
         JSON.parse(last_response.body)['postal_name'].should eql 'Valby'
