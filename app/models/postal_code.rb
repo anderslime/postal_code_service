@@ -5,6 +5,8 @@ class PostalCode
   class UnknownCountry < RuntimeError; end;
   class UnknownCode < RuntimeError; end;
 
+  @postal_codes = {}
+
   class << self
 
     def available_countries
@@ -20,14 +22,10 @@ class PostalCode
     end
 
     def find_all_by_country_code(country_code)
-      instance_variable_get("@#{country_code}") || load_country(country_code)
+      @postal_codes[country_code] ||= process_postal_code_array(load_file(country_code))
     end
 
     private
-
-    def load_country(country_code)
-      instance_variable_set "@#{country_code}", process_postal_code_array(load_file(country_code))
-    end
 
     def load_file(country_code)
       YAML.load_file("#{self_path}/postal_code_data/#{country_code}.yaml").sort_by { |postal_pair| postal_pair['postal_codes'] }
