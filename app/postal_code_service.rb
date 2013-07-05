@@ -4,6 +4,7 @@ require './app/models/postal_code'
 class PostalCodeService < Sinatra::Base
 
   before do
+    headers 'Access-Control-Allow-Origin' => '*'
     content_type :json
   end
 

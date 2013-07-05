@@ -24,6 +24,11 @@ describe "The Postal Code JSON Web service" do
       last_response.headers['Content-Type'].should include 'application/json'
     end
 
+    it 'should allow requests from any domain' do
+      get '/'
+      last_response.headers['Access-Control-Allow-Origin'].should eql '*'
+    end
+
     it 'should offer at least Danish and Swedish postal codes' do
       get '/'
       JSON.parse(last_response.body).should include 'dk', 'se'
