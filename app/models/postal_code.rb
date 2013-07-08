@@ -1,6 +1,8 @@
 require 'yaml'
+require 'singleton'
 
 class PostalCode
+  include Singleton
 
   class UnknownCountry < RuntimeError; end;
   class UnknownCode < RuntimeError; end;
