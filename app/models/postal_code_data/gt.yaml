@@ -1,1055 +1,528 @@
 ---
-- postal_code: '16020'
-  postal_name: Boloncó
-- postal_code: '16012'
-  postal_name: Cahabón
-- postal_code: '16021'
-  postal_name: Campur
-- postal_code: '16014'
-  postal_name: Chahal
-- postal_code: '16013'
-  postal_name: Chisec
-- postal_code: '16001'
-  postal_name: Cobán
-- postal_code: '16024'
-  postal_name: El Rosario
-- postal_code: '16016'
-  postal_name: La Tinta
-- postal_code: '16011'
-  postal_name: Lanquín
-- postal_code: '16022'
-  postal_name: Las Casas
-- postal_code: '16025'
-  postal_name: Las Conchas
-- postal_code: '16018'
-  postal_name: Pancajché
-- postal_code: '16007'
-  postal_name: Panzós
-- postal_code: '16026'
-  postal_name: Raxruhá
-- postal_code: '16023'
-  postal_name: Salacuín
-- postal_code: '16015'
-  postal_name: San Bartolomé
-- postal_code: '16003'
-  postal_name: San Cristóbal Verapaz
-- postal_code: '16010'
-  postal_name: San Juan Chamelco
-- postal_code: '16009'
-  postal_name: San Pedro Carchá
-- postal_code: '16002'
-  postal_name: Santa Cruz Verapaz
-- postal_code: '16019'
-  postal_name: Sebol
-- postal_code: '16008'
-  postal_name: Senahú
-- postal_code: '16004'
-  postal_name: Tactic
-- postal_code: '16005'
-  postal_name: Tamahú
-- postal_code: '16017'
-  postal_name: Telemán
-- postal_code: '16006'
-  postal_name: Tucurú
-- postal_code: '15004'
-  postal_name: Cubulco
-- postal_code: '15006'
-  postal_name: El Chol
-- postal_code: '15005'
-  postal_name: Granados
-- postal_code: '15010'
-  postal_name: La Canoa
-- postal_code: '15009'
-  postal_name: Los Amates
-- postal_code: '15008'
-  postal_name: Purulhá
-- postal_code: '15003'
-  postal_name: Rabinal
-- postal_code: '15001'
-  postal_name: Salamá
-- postal_code: '15011'
-  postal_name: Saltán
-- postal_code: '15012'
-  postal_name: San Gabriel Pansuy
-- postal_code: '15007'
-  postal_name: San Jerónimo
-- postal_code: '15002'
-  postal_name: San Miguel Chicaj
-- postal_code: '04011'
-  postal_name: Acatenango
-- postal_code: '04001'
-  postal_name: Chimaltenango
-- postal_code: '04004'
-  postal_name: Comalapa
-- postal_code: '04016'
-  postal_name: El Tejar
-- postal_code: '04014'
-  postal_name: Parramos
-- postal_code: '04009'
-  postal_name: Patzicía
-- postal_code: '04007'
-  postal_name: Patzún
-- postal_code: '04008'
-  postal_name: Pochuta
-- postal_code: '04013'
-  postal_name: San Andrés Itzapa
-- postal_code: '04002'
-  postal_name: San José Poaquil
-- postal_code: '04003'
-  postal_name: San Martín Jilotepeque
-- postal_code: '04005'
-  postal_name: Santa Apolonia
-- postal_code: '04010'
-  postal_name: Santa Cruz Balanyá
-- postal_code: '04006'
-  postal_name: Tecpán Guatemala
-- postal_code: '04012'
-  postal_name: Yepocapa
-- postal_code: '04015'
-  postal_name: Zaragoza
-- postal_code: '20019'
-  postal_name: Agua Caliente
-- postal_code: '20012'
-  postal_name: Anguiatú
-- postal_code: '20005'
-  postal_name: Camotán
-- postal_code: '20001'
-  postal_name: Chiquimula
-- postal_code: '20008'
-  postal_name: Concepción Las Minas
-- postal_code: '20013'
-  postal_name: El Amatillo
-- postal_code: '20014'
-  postal_name: El Florido
-- postal_code: '20007'
-  postal_name: Esquipulas
-- postal_code: '20011'
-  postal_name: Ipala
-- postal_code: '20004'
-  postal_name: Jocotán
-- postal_code: '20020'
-  postal_name: Nueva Anguiatú
-- postal_code: '20006'
-  postal_name: Olopa
-- postal_code: '20009'
-  postal_name: Quetzaltepeque
-- postal_code: '20017'
-  postal_name: San Esteban
-- postal_code: '20010'
-  postal_name: San Jacinto
-- postal_code: '20002'
-  postal_name: San José La Arada
-- postal_code: '20003'
-  postal_name: San Juan Ermita
-- postal_code: '20015'
-  postal_name: Santa Elena
-- postal_code: '20018'
-  postal_name: Tierra Colorada
-- postal_code: '20016'
-  postal_name: Vado Hondo
-- postal_code: '02005'
-  postal_name: El Jícaro
-- postal_code: '02013'
-  postal_name: El Paso de los Jalapas
-- postal_code: '02015'
-  postal_name: El Rancho
-- postal_code: '02010'
-  postal_name: Estación Jalapa
-- postal_code: '02012'
-  postal_name: Estancia de La Virgen
-- postal_code: '02001'
-  postal_name: Guastatoya
-- postal_code: '02002'
-  postal_name: Morazán
-- postal_code: '02003'
-  postal_name: San Agustín Acasaguastlán
-- postal_code: '02008'
-  postal_name: San Antonio La Paz
-- postal_code: '02004'
-  postal_name: San Cristóbal Acasaguastlán
-- postal_code: '02007'
-  postal_name: Sanarate
-- postal_code: '02006'
-  postal_name: Sansare
-- postal_code: '02014'
-  postal_name: Santa Rita
-- postal_code: '02011'
-  postal_name: Tulumaje
-- postal_code: '02009'
-  postal_name: Tulumajillo
-- postal_code: '05015'
-  postal_name: Brito
-- postal_code: '05019'
-  postal_name: Cuyuta
-- postal_code: '05017'
-  postal_name: El Naranjo
-- postal_code: '05020'
-  postal_name: El Porvenir Ticanlu
-- postal_code: '05001'
-  postal_name: Escuintla
-- postal_code: '05010'
-  postal_name: Itzapa
-- postal_code: '05003'
-  postal_name: La Democracia
-- postal_code: '05007'
-  postal_name: La Gomera
-- postal_code: '05005'
-  postal_name: Masagua
-- postal_code: '05013'
-  postal_name: Nueva Concepción
-- postal_code: '05014'
-  postal_name: Obero
-- postal_code: '05011'
-  postal_name: Palín
-- postal_code: '05018'
-  postal_name: San Andrés Osuna
-- postal_code: '05009'
-  postal_name: San José
-- postal_code: '05012'
-  postal_name: San Vicente Pacaya
-- postal_code: '05016'
-  postal_name: Santa Ana Mixtán
-- postal_code: '05002'
-  postal_name: Santa Lucía Cotzumalguapa
-- postal_code: '05021'
-  postal_name: Sipacate
-- postal_code: '05004'
-  postal_name: Siquinalá
-- postal_code: '05006'
-  postal_name: Tiquisate
-- postal_code: '01063'
-  postal_name: Amatitlán
-- postal_code: '01069'
-  postal_name: Boca del Monte
-- postal_code: '01067'
-  postal_name: Canalitos
-- postal_code: '01055'
-  postal_name: Chinautla
-- postal_code: '01061'
-  postal_name: Chuarrancho
-- postal_code: '01001'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01002'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01003'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01004'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01005'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01006'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01007'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01008'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01009'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01010'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01011'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01012'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01013'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01014'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01015'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01016'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01017'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01018'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01019'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01021'
-  postal_name: Ciudad de Guatemala
-- postal_code: '01068'
-  postal_name: El Fiscal
-- postal_code: '01062'
-  postal_name: Fraijanes
-- postal_code: '01057'
-  postal_name: Mixco
-- postal_code: '01054'
-  postal_name: Palencia
-- postal_code: '01066'
-  postal_name: Petapa
-- postal_code: '01073'
-  postal_name: Puerta Parada
-- postal_code: '01053'
-  postal_name: San José del Golfo
-- postal_code: '01052'
-  postal_name: San José Pinula
-- postal_code: '01059'
-  postal_name: San Juan Sacatepéquez
-- postal_code: '01056'
-  postal_name: San Pedro Ayampuc
-- postal_code: '01058'
-  postal_name: San Pedro Sacatepéquez
-- postal_code: '01060'
-  postal_name: San Raymundo
-- postal_code: '01051'
-  postal_name: Santa Catarina Pinula
-- postal_code: '01072'
-  postal_name: Santa Elena Barillas
-- postal_code: '01071'
-  postal_name: Trapiche Grande
-- postal_code: '01065'
-  postal_name: Villa Canales
-- postal_code: '01064'
-  postal_name: Villa Nueva
-- postal_code: '01070'
-  postal_name: Vuelta Grande
-- postal_code: '13027'
-  postal_name: Aguacatán
-- postal_code: '13026'
-  postal_name: Barillas
-- postal_code: '13040'
-  postal_name: Chalum
-- postal_code: '13002'
-  postal_name: Chiantla
-- postal_code: '13019'
-  postal_name: Colotenango
-- postal_code: '13022'
-  postal_name: Concepción
-- postal_code: '13004'
-  postal_name: Cuilco
-- postal_code: '13032'
-  postal_name: Gracias a Dios
-- postal_code: '13001'
-  postal_name: Huehuetenango
-- postal_code: '13009'
-  postal_name: Ixtahuacán
-- postal_code: '13007'
-  postal_name: Jacaltenango
-- postal_code: '13012'
-  postal_name: La Democracia
-- postal_code: '13011'
-  postal_name: La Libertad
-- postal_code: '13041'
-  postal_name: La Mesilla
-- postal_code: '13003'
-  postal_name: Malacatancito
-- postal_code: '13038'
-  postal_name: Michicoy
-- postal_code: '13005'
-  postal_name: Nentón
-- postal_code: '13037'
-  postal_name: Páquix
-- postal_code: '13036'
-  postal_name: Petatán
-- postal_code: '13039'
-  postal_name: San Andrés Huista
-- postal_code: '13024'
-  postal_name: San Antonio Huista
-- postal_code: '13029'
-  postal_name: San Gaspar Ixchil
-- postal_code: '13016'
-  postal_name: San Juan Atitán
-- postal_code: '13023'
-  postal_name: San Juan Ixcoy
-- postal_code: '13033'
-  postal_name: San Lorenzo
-- postal_code: '13035'
-  postal_name: San Marcos Huista
-- postal_code: '13034'
-  postal_name: San Martín Cuchumatán
-- postal_code: '13018'
-  postal_name: San Mateo Ixtatán
-- postal_code: '13013'
-  postal_name: San Miguel Acatán
-- postal_code: '13006'
-  postal_name: San Pedro Necta
-- postal_code: '13014'
-  postal_name: San Rafael La Independencia
-- postal_code: '13028'
-  postal_name: San Rafael Petzal
-- postal_code: '13025'
-  postal_name: San Sebastián Coatán
-- postal_code: '13020'
-  postal_name: San Sebastián Huehuetenango
-- postal_code: '13031'
-  postal_name: Santa Ana Huista
-- postal_code: '13010'
-  postal_name: Santa Bárbara
-- postal_code: '13017'
-  postal_name: Santa Eulalia
-- postal_code: '13030'
-  postal_name: Santiago Chimaltenango
-- postal_code: '13008'
-  postal_name: Soloma
-- postal_code: '13021'
-  postal_name: Tectitán
-- postal_code: '13015'
-  postal_name: Todos Santos Cuchumatán
-- postal_code: '18020'
-  postal_name: Bananera
-- postal_code: '18023'
-  postal_name: Buenos Aires
-- postal_code: '18008'
-  postal_name: Cayuga
-- postal_code: '18010'
-  postal_name: El Cinchado
-- postal_code: '18003'
-  postal_name: El Estor
-- postal_code: '18014'
-  postal_name: El Mitchal
-- postal_code: '18016'
-  postal_name: El Refugio
-- postal_code: '18007'
-  postal_name: El Rico
-- postal_code: '18012'
-  postal_name: Entre Ríos
-- postal_code: '18021'
-  postal_name: Fronteras
-- postal_code: '18011'
-  postal_name: Las Quebradas
-- postal_code: '18015'
-  postal_name: Las Viñas
-- postal_code: '18002'
-  postal_name: Lívingston
-- postal_code: '18005'
-  postal_name: Los Amates
-- postal_code: '18022'
-  postal_name: Mariscos
-- postal_code: '18004'
-  postal_name: Morales
-- postal_code: '18006'
-  postal_name: Playitas
-- postal_code: '18001'
-  postal_name: Puerto Barrios
-- postal_code: '18009'
-  postal_name: Quiriguá
-- postal_code: '18019'
-  postal_name: San Felipe
-- postal_code: '18017'
-  postal_name: Santa Inés
-- postal_code: '18013'
-  postal_name: Santo Tomás de Castilla
-- postal_code: '18018'
-  postal_name: Tenedores
-- postal_code: '21001'
-  postal_name: Jalapa
-- postal_code: '21008'
-  postal_name: Llano Grande
-- postal_code: '21007'
-  postal_name: Mataquescuintla
-- postal_code: '21006'
-  postal_name: Monjas
-- postal_code: '21005'
-  postal_name: San Carlos Alzatate
-- postal_code: '21003'
-  postal_name: San Luis Jilotepeque
-- postal_code: '21004'
-  postal_name: San Manuel Chaparrón
-- postal_code: '21002'
-  postal_name: San Pedro Pinula
-- postal_code: '22004'
-  postal_name: Agua Blanca
-- postal_code: '22005'
-  postal_name: Asunción Mita
-- postal_code: '22007'
-  postal_name: Atescatempa
-- postal_code: '22018'
-  postal_name: Ciudad Pedro de Alvarado
-- postal_code: '22011'
-  postal_name: Comapa
-- postal_code: '22013'
-  postal_name: Conguanco
-- postal_code: '22024'
-  postal_name: Contepeque
-- postal_code: '22009'
-  postal_name: El Adelanto
-- postal_code: '22023'
-  postal_name: El Ovejero
-- postal_code: '22002'
-  postal_name: El Progreso
-- postal_code: '22022'
-  postal_name: Horcones
-- postal_code: '22026'
-  postal_name: Horcones
-- postal_code: '22012'
-  postal_name: Jalpatagua
-- postal_code: '22008'
-  postal_name: Jerez
-- postal_code: '22001'
-  postal_name: Jutiapa
-- postal_code: '22025'
-  postal_name: La Esmeralda
-- postal_code: '22014'
-  postal_name: Moyuta
-- postal_code: '22015'
-  postal_name: Pasaco
-- postal_code: '22017'
-  postal_name: Quesada
-- postal_code: '22021'
-  postal_name: Río de Paz
-- postal_code: '22019'
-  postal_name: San Cristóbal Frontera
-- postal_code: '22016'
-  postal_name: San José Acatempa
-- postal_code: '22003'
-  postal_name: Santa Catarina Mita
-- postal_code: '22027'
-  postal_name: Tiúcal
-- postal_code: '22020'
-  postal_name: Valle Nuevo Jalpatagua
-- postal_code: '22006'
-  postal_name: Yupiltepeque
-- postal_code: '22010'
-  postal_name: Zapotitlán
-- postal_code: '17018'
-  postal_name: Carmelita
-- postal_code: '17008'
-  postal_name: Dolores
-- postal_code: '17014'
-  postal_name: Dos Lagunas
-- postal_code: '17020'
-  postal_name: El Chal
-- postal_code: '17024'
-  postal_name: El Naranjo
-- postal_code: '17022'
-  postal_name: El Remate
-- postal_code: '17001'
-  postal_name: Flores
-- postal_code: '17023'
-  postal_name: La Felicidad
-- postal_code: '17005'
-  postal_name: La Libertad
-- postal_code: '17027'
-  postal_name: Las Cruces
-- postal_code: '17021'
-  postal_name: Macanché
-- postal_code: '17019'
-  postal_name: Machaquilá
-- postal_code: '17011'
-  postal_name: Melchor de Mencos
-- postal_code: '17016'
-  postal_name: Paso Caballos
-- postal_code: '17026'
-  postal_name: Paxcamán
-- postal_code: '17012'
-  postal_name: Poptún
-- postal_code: '17028'
-  postal_name: Sabaneta
-- postal_code: '17025'
-  postal_name: Sacpuy
-- postal_code: '17004'
-  postal_name: San Andrés
-- postal_code: '17003'
-  postal_name: San Benito
-- postal_code: '17006'
-  postal_name: San Francisco
-- postal_code: '17002'
-  postal_name: San José
-- postal_code: '17009'
-  postal_name: San Luis
-- postal_code: '17007'
-  postal_name: Santa Ana
-- postal_code: '17029'
-  postal_name: Santa Elena
-- postal_code: '17015'
-  postal_name: Santo Toribio
-- postal_code: '17010'
-  postal_name: Sayaxché
-- postal_code: '17013'
-  postal_name: Tikal
-- postal_code: '17017'
-  postal_name: Uaxactún
-- postal_code: '09013'
-  postal_name: Almolonga
-- postal_code: '09006'
-  postal_name: Cabricán
-- postal_code: '09007'
-  postal_name: Cajolá
-- postal_code: '09014'
-  postal_name: Cantel
-- postal_code: '09026'
-  postal_name: Chiquibal
-- postal_code: '09031'
-  postal_name: Chuatuj
-- postal_code: '09020'
-  postal_name: Coatepeque
-- postal_code: '09017'
-  postal_name: Colomba
-- postal_code: '09011'
-  postal_name: Concepción Chiquirichapa
-- postal_code: '09028'
-  postal_name: CUICALBA
-- postal_code: '09030'
-  postal_name: El Edén
-- postal_code: '09019'
-  postal_name: El Palmar
-- postal_code: '09032'
-  postal_name: El Tambor
-- postal_code: '09022'
-  postal_name: Flores Costa Cuca
-- postal_code: '09021'
-  postal_name: Génova
-- postal_code: '09015'
-  postal_name: Huitán
-- postal_code: '09023'
-  postal_name: La Esperanza
-- postal_code: '09033'
-  postal_name: Las Mercedes
-- postal_code: '09027'
-  postal_name: Las Palmas
-- postal_code: '09003'
-  postal_name: Olintepeque
-- postal_code: '09009'
-  postal_name: Ostuncalco
-- postal_code: '09024'
-  postal_name: Palestina de los Altos
-- postal_code: '09034'
-  postal_name: Palmira
-- postal_code: '09001'
-  postal_name: Quetzaltenango
-- postal_code: '09002'
-  postal_name: Salcajá
-- postal_code: '09004'
-  postal_name: San Carlos Sija
-- postal_code: '09018'
-  postal_name: San Francisco La Unión
-- postal_code: '09029'
-  postal_name: San José Chiquilajá
-- postal_code: '09012'
-  postal_name: San Martín Sacatepéquez
-- postal_code: '09010'
-  postal_name: San Mateo
-- postal_code: '09008'
-  postal_name: San Miguel Sigüilá
-- postal_code: '09025'
-  postal_name: Santa María de Jesús
-- postal_code: '09005'
-  postal_name: Sibilia
-- postal_code: '09016'
-  postal_name: Zunil
-- postal_code: '14018'
-  postal_name: Canillá
-- postal_code: '14023'
-  postal_name: Cantabal
-- postal_code: '14005'
-  postal_name: Chajul
-- postal_code: '14020'
-  postal_name: Chicamán
-- postal_code: '14006'
-  postal_name: Chichicastenango
-- postal_code: '14003'
-  postal_name: Chinique
-- postal_code: '14010'
-  postal_name: Cunén
-- postal_code: '14012'
-  postal_name: Joyabaj
-- postal_code: '14013'
-  postal_name: Nebaj
-- postal_code: '14022'
-  postal_name: Pachalum
-- postal_code: '14007'
-  postal_name: Patzité
-- postal_code: '14019'
-  postal_name: Playa Grande
-- postal_code: '14002'
-  postal_name: Quiché
-- postal_code: '14016'
-  postal_name: Sacapulas
-- postal_code: '14014'
-  postal_name: San Andrés Sajcabajá
-- postal_code: '14008'
-  postal_name: San Antonio Ilotenango
-- postal_code: '14017'
-  postal_name: San Bartolomé Jocotenango
-- postal_code: '14024'
-  postal_name: San José
-- postal_code: '14011'
-  postal_name: San Juan Cotzal
-- postal_code: '14009'
-  postal_name: San Pedro Jocopilas
-- postal_code: '14001'
-  postal_name: Santa Cruz del Quiché
-- postal_code: '14021'
-  postal_name: Santa Rosa Chucuyub
-- postal_code: '14015'
-  postal_name: Uspantán
-- postal_code: '14025'
-  postal_name: Xacbal
-- postal_code: '14004'
-  postal_name: Zacualpa
-- postal_code: '11010'
-  postal_name: Caballo Blanco
-- postal_code: '11011'
-  postal_name: Candelaria Xolhuitz
-- postal_code: '11007'
-  postal_name: Champerico
-- postal_code: '11009'
-  postal_name: El Asintal
-- postal_code: '11013'
-  postal_name: El Xab
-- postal_code: '11014'
-  postal_name: La Máquina
-- postal_code: '11008'
-  postal_name: Nuevo San Carlos
-- postal_code: '11001'
-  postal_name: Retalhuleu
-- postal_code: '11006'
-  postal_name: San Andrés Villa Seca
-- postal_code: '11005'
-  postal_name: San Felipe
-- postal_code: '11004'
-  postal_name: San Martín Zapotitlán
-- postal_code: '11002'
-  postal_name: San Sebastián
-- postal_code: '11003'
-  postal_name: Santa Cruz Muluá
-- postal_code: '11012'
-  postal_name: Sinavba
-- postal_code: '03014'
-  postal_name: Alotenango
-- postal_code: '03001'
-  postal_name: Antigua Guatemala
-- postal_code: '03012'
-  postal_name: Ciudad Vieja
-- postal_code: '03002'
-  postal_name: Jocotenango
-- postal_code: '03010'
-  postal_name: Magdalena Milpas Altas
-- postal_code: '03003'
-  postal_name: Pastores
-- postal_code: '03015'
-  postal_name: San Antonio Aguas Calientes
-- postal_code: '03007'
-  postal_name: San Bartolomé Milpas Altas
-- postal_code: '03008'
-  postal_name: San Lucas Sacatepéquez
-- postal_code: '03013'
-  postal_name: San Miguel Dueñas
-- postal_code: '03016'
-  postal_name: Santa Catarina Barahona
-- postal_code: '03009'
-  postal_name: Santa Lucía Milpas Altas
-- postal_code: '03017'
-  postal_name: Santa María Cauqué
-- postal_code: '03011'
-  postal_name: Santa María de Jesús
-- postal_code: '03006'
-  postal_name: Santiago Sacatepéquez
-- postal_code: '03005'
-  postal_name: Santo Domingo Xenacoj
-- postal_code: '03004'
-  postal_name: Sumpango
-- postal_code: '12044'
-  postal_name: Calapté
-- postal_code: '12016'
-  postal_name: Catarina
-- postal_code: '12047'
-  postal_name: Champollap
-- postal_code: '12004'
-  postal_name: Comitancillo
-- postal_code: '12006'
-  postal_name: Concepción Tutuapa
-- postal_code: '12036'
-  postal_name: El Amparo
-- postal_code: '12030'
-  postal_name: El Carmen
-- postal_code: '12040'
-  postal_name: El Cielo
-- postal_code: '12020'
-  postal_name: El Quetzal
-- postal_code: '12014'
-  postal_name: El Rodeo
-- postal_code: '12050'
-  postal_name: El Sitio
-- postal_code: '12013'
-  postal_name: El Tumbador
-- postal_code: '12027'
-  postal_name: Esquipulas Palo Gordo
-- postal_code: '12023'
-  postal_name: Ixchiguán
-- postal_code: '12039'
-  postal_name: La Blanca
-- postal_code: '12046'
-  postal_name: La Conquista
-- postal_code: '12034'
-  postal_name: La Democracia
-- postal_code: '12021'
-  postal_name: La Reforma
-- postal_code: '12043'
-  postal_name: Las Delicias
-- postal_code: '12038'
-  postal_name: Los Limones
-- postal_code: '12042'
-  postal_name: Los Platanares
-- postal_code: '12015'
-  postal_name: Malacatán
-- postal_code: '12012'
-  postal_name: Nuevo Progreso
-- postal_code: '12018'
-  postal_name: Ocós
-- postal_code: '12022'
-  postal_name: Pajapita
-- postal_code: '12048'
-  postal_name: Piedra Grande
-- postal_code: '12028'
-  postal_name: Río Blanco
-- postal_code: '12003'
-  postal_name: San Antonio Sacatepéquez
-- postal_code: '12025'
-  postal_name: San Cristóbal Cucho
-- postal_code: '12035'
-  postal_name: San Francisco
-- postal_code: '12032'
-  postal_name: San Jerónimo
-- postal_code: '12041'
-  postal_name: San José Ixtal
-- postal_code: '12024'
-  postal_name: San José Ojetenán
-- postal_code: '12029'
-  postal_name: San Lorenzo
-- postal_code: '12001'
-  postal_name: San Marcos
-- postal_code: '12005'
-  postal_name: San Miguel Ixtahuacán
-- postal_code: '12019'
-  postal_name: San Pablo
-- postal_code: '12002'
-  postal_name: San Pedro Sacatepéquez
-- postal_code: '12011'
-  postal_name: San Rafael Pie de La Cuesta
-- postal_code: '12037'
-  postal_name: San Sebastián
-- postal_code: '12049'
-  postal_name: Santa Lucía Ixcamal
-- postal_code: '12033'
-  postal_name: Serchil
-- postal_code: '12008'
-  postal_name: Sibinal
-- postal_code: '12026'
-  postal_name: Sipacapa
-- postal_code: '12007'
-  postal_name: Tacaná
-- postal_code: '12009'
-  postal_name: Tajumulco
-- postal_code: '12017'
-  postal_name: Tecún Umán
-- postal_code: '12010'
-  postal_name: Tejutla
-- postal_code: '12045'
-  postal_name: Tocache
-- postal_code: '12031'
-  postal_name: Zanjón San Lorenzo
-- postal_code: '06018'
-  postal_name: Ayarza
-- postal_code: '06002'
-  postal_name: Barberena
-- postal_code: '06017'
-  postal_name: Casas Viejas
-- postal_code: '06004'
-  postal_name: Casillas
-- postal_code: '06027'
-  postal_name: Cerro Gordo
-- postal_code: '06008'
-  postal_name: Chiquimulilla
-- postal_code: '06001'
-  postal_name: Cuilapa
-- postal_code: '06015'
-  postal_name: El Ahumado
-- postal_code: '06019'
-  postal_name: El Molino
-- postal_code: '06026'
-  postal_name: El Rinconcito
-- postal_code: '06023'
-  postal_name: El Serinal
-- postal_code: '06011'
-  postal_name: Guazacapán
-- postal_code: '06016'
-  postal_name: Los Cerritos
-- postal_code: '06022'
-  postal_name: Los Esclavos
-- postal_code: '06024'
-  postal_name: Monterrico
-- postal_code: '06020'
-  postal_name: Nancinta
-- postal_code: '06014'
-  postal_name: Nueva Santa Rosa
-- postal_code: '06006'
-  postal_name: Oratorio
-- postal_code: '06013'
-  postal_name: Pueblo Nuevo Viñas
-- postal_code: '06025'
-  postal_name: San Juan de Arana
-- postal_code: '06007'
-  postal_name: San Juan Tecuaco
-- postal_code: '06021'
-  postal_name: San Miguel Aroche
-- postal_code: '06005'
-  postal_name: San Rafael Las Flores
-- postal_code: '06012'
-  postal_name: Santa Cruz Naranjo
-- postal_code: '06010'
-  postal_name: Santa María Ixhuatán
-- postal_code: '06003'
-  postal_name: Santa Rosa de Lima
-- postal_code: '06009'
-  postal_name: Taxisco
-- postal_code: '07022'
-  postal_name: Agua Escondida
-- postal_code: '07023'
-  postal_name: Argueta
-- postal_code: '07008'
-  postal_name: Concepción
-- postal_code: '07021'
-  postal_name: Godínez
-- postal_code: '07020'
-  postal_name: Los Encuentros
-- postal_code: '07005'
-  postal_name: Nahualá
-- postal_code: '07010'
-  postal_name: Panajachel
-- postal_code: '07024'
-  postal_name: Pixabaj
-- postal_code: '07009'
-  postal_name: San Andrés Semetabaj
-- postal_code: '07012'
-  postal_name: San Antonio Palopó
-- postal_code: '07002'
-  postal_name: San José Chacayá
-- postal_code: '07017'
-  postal_name: San Juan La Laguna
-- postal_code: '07013'
-  postal_name: San Lucas Tolimán
-- postal_code: '07016'
-  postal_name: San Marcos La Laguna
-- postal_code: '07015'
-  postal_name: San Pablo La Laguna
-- postal_code: '07018'
-  postal_name: San Pedro La Laguna
-- postal_code: '07006'
-  postal_name: Santa Catarina Ixtahuacán
-- postal_code: '07011'
-  postal_name: Santa Catarina Palopó
-- postal_code: '07007'
-  postal_name: Santa Clara La Laguna
-- postal_code: '07014'
-  postal_name: Santa Cruz La Laguna
-- postal_code: '07004'
-  postal_name: Santa Lucía Utatlán
-- postal_code: '07003'
-  postal_name: Santa María Visitación
-- postal_code: '07019'
-  postal_name: Santiago Atitlán
-- postal_code: '07001'
-  postal_name: Sololá
-- postal_code: '10028'
-  postal_name: Bolivia
-- postal_code: '10027'
-  postal_name: Bracitos
-- postal_code: '10013'
-  postal_name: Chicacao
-- postal_code: '10022'
-  postal_name: Chocolá
-- postal_code: '10021'
-  postal_name: Cocales
-- postal_code: '10002'
-  postal_name: Cuyotenango
-- postal_code: '10024'
-  postal_name: Guatalón
-- postal_code: '10030'
-  postal_name: La Máquina
-- postal_code: '10001'
-  postal_name: Mazatenango
-- postal_code: '10029'
-  postal_name: Monterrey
-- postal_code: '10025'
-  postal_name: Palo Gordo
-- postal_code: '10014'
-  postal_name: Patulul
-- postal_code: '10019'
-  postal_name: Pueblo Nuevo
-- postal_code: '10020'
-  postal_name: Río Bravo
-- postal_code: '10008'
-  postal_name: Samayac
-- postal_code: '10010'
-  postal_name: San Antonio Suchitepéquez
-- postal_code: '10004'
-  postal_name: San Bernardino
-- postal_code: '10003'
-  postal_name: San Francisco Zapotitlán
-- postal_code: '10012'
-  postal_name: San Gabriel
-- postal_code: '10005'
-  postal_name: San José El Ídolo
-- postal_code: '10016'
-  postal_name: San Juan Bautista
-- postal_code: '10007'
-  postal_name: San Lorenzo
-- postal_code: '10011'
-  postal_name: San Miguel Panán
-- postal_code: '10009'
-  postal_name: San Pablo Jocopilas
-- postal_code: '10026'
-  postal_name: San Rafael Panán
-- postal_code: '10015'
-  postal_name: Santa Bárbara
-- postal_code: '10006'
-  postal_name: Santo Domingo Suchitepéquez
-- postal_code: '10017'
-  postal_name: Santo Tomás La Unión
-- postal_code: '10023'
-  postal_name: Tahuexco
-- postal_code: '10018'
-  postal_name: Zunilito
-- postal_code: '08005'
-  postal_name: Momostenango
-- postal_code: '08004'
-  postal_name: San Andrés Xecul
-- postal_code: '08008'
-  postal_name: San Bartolo
-- postal_code: '08002'
-  postal_name: San Cristóbal Totonicapán
-- postal_code: '08003'
-  postal_name: San Francisco El Alto
-- postal_code: '08007'
-  postal_name: Santa Lucía La Reforma
-- postal_code: '08006'
-  postal_name: Santa María Chiquimula
-- postal_code: '08001'
-  postal_name: Totonicapán
-- postal_code: '19007'
-  postal_name: Cabañas
-- postal_code: '19002'
-  postal_name: Estanzuela
-- postal_code: '19004'
-  postal_name: Gualán
-- postal_code: '19010'
-  postal_name: Huité
-- postal_code: '19016'
-  postal_name: La Fragua
-- postal_code: '19011'
-  postal_name: La Reforma
-- postal_code: '19009'
-  postal_name: La Unión
-- postal_code: '19003'
-  postal_name: Río Hondo
-- postal_code: '19008'
-  postal_name: San Diego
-- postal_code: '19013'
-  postal_name: San Jorge
-- postal_code: '19012'
-  postal_name: San José
-- postal_code: '19017'
-  postal_name: San Pablo
-- postal_code: '19018'
-  postal_name: San Vicente
-- postal_code: '19015'
-  postal_name: Santa Lucía
-- postal_code: '19014'
-  postal_name: Santa Rosalía
-- postal_code: '19005'
-  postal_name: Teculután
-- postal_code: '19006'
-  postal_name: Usumatlán
-- postal_code: '19001'
-  postal_name: Zacapa
+'16020': Boloncó
+'16012': Cahabón
+'16021': Campur
+'16014': Chahal
+'16013': Chisec
+'16001': Cobán
+'16024': El Rosario
+'16016': La Tinta
+'16011': Lanquín
+'16022': Las Casas
+'16025': Las Conchas
+'16018': Pancajché
+'16007': Panzós
+'16026': Raxruhá
+'16023': Salacuín
+'16015': San Bartolomé
+'16003': San Cristóbal Verapaz
+'16010': San Juan Chamelco
+'16009': San Pedro Carchá
+'16002': Santa Cruz Verapaz
+'16019': Sebol
+'16008': Senahú
+'16004': Tactic
+'16005': Tamahú
+'16017': Telemán
+'16006': Tucurú
+'15004': Cubulco
+'15006': El Chol
+'15005': Granados
+'15010': La Canoa
+'15009': Los Amates
+'15008': Purulhá
+'15003': Rabinal
+'15001': Salamá
+'15011': Saltán
+'15012': San Gabriel Pansuy
+'15007': San Jerónimo
+'15002': San Miguel Chicaj
+'04011': Acatenango
+'04001': Chimaltenango
+'04004': Comalapa
+'04016': El Tejar
+'04014': Parramos
+'04009': Patzicía
+'04007': Patzún
+'04008': Pochuta
+'04013': San Andrés Itzapa
+'04002': San José Poaquil
+'04003': San Martín Jilotepeque
+'04005': Santa Apolonia
+'04010': Santa Cruz Balanyá
+'04006': Tecpán Guatemala
+'04012': Yepocapa
+'04015': Zaragoza
+'20019': Agua Caliente
+'20012': Anguiatú
+'20005': Camotán
+'20001': Chiquimula
+'20008': Concepción Las Minas
+'20013': El Amatillo
+'20014': El Florido
+'20007': Esquipulas
+'20011': Ipala
+'20004': Jocotán
+'20020': Nueva Anguiatú
+'20006': Olopa
+'20009': Quetzaltepeque
+'20017': San Esteban
+'20010': San Jacinto
+'20002': San José La Arada
+'20003': San Juan Ermita
+'20015': Santa Elena
+'20018': Tierra Colorada
+'20016': Vado Hondo
+'02005': El Jícaro
+'02013': El Paso de los Jalapas
+'02015': El Rancho
+'02010': Estación Jalapa
+'02012': Estancia de La Virgen
+'02001': Guastatoya
+'02002': Morazán
+'02003': San Agustín Acasaguastlán
+'02008': San Antonio La Paz
+'02004': San Cristóbal Acasaguastlán
+'02007': Sanarate
+'02006': Sansare
+'02014': Santa Rita
+'02011': Tulumaje
+'02009': Tulumajillo
+'05015': Brito
+'05019': Cuyuta
+'05017': El Naranjo
+'05020': El Porvenir Ticanlu
+'05001': Escuintla
+'05010': Itzapa
+'05003': La Democracia
+'05007': La Gomera
+'05005': Masagua
+'05013': Nueva Concepción
+'05014': Obero
+'05011': Palín
+'05018': San Andrés Osuna
+'05009': San José
+'05012': San Vicente Pacaya
+'05016': Santa Ana Mixtán
+'05002': Santa Lucía Cotzumalguapa
+'05021': Sipacate
+'05004': Siquinalá
+'05006': Tiquisate
+'01063': Amatitlán
+'01069': Boca del Monte
+'01067': Canalitos
+'01055': Chinautla
+'01061': Chuarrancho
+'01001': Ciudad de Guatemala
+'01002': Ciudad de Guatemala
+'01003': Ciudad de Guatemala
+'01004': Ciudad de Guatemala
+'01005': Ciudad de Guatemala
+'01006': Ciudad de Guatemala
+'01007': Ciudad de Guatemala
+'01008': Ciudad de Guatemala
+'01009': Ciudad de Guatemala
+'01010': Ciudad de Guatemala
+'01011': Ciudad de Guatemala
+'01012': Ciudad de Guatemala
+'01013': Ciudad de Guatemala
+'01014': Ciudad de Guatemala
+'01015': Ciudad de Guatemala
+'01016': Ciudad de Guatemala
+'01017': Ciudad de Guatemala
+'01018': Ciudad de Guatemala
+'01019': Ciudad de Guatemala
+'01021': Ciudad de Guatemala
+'01068': El Fiscal
+'01062': Fraijanes
+'01057': Mixco
+'01054': Palencia
+'01066': Petapa
+'01073': Puerta Parada
+'01053': San José del Golfo
+'01052': San José Pinula
+'01059': San Juan Sacatepéquez
+'01056': San Pedro Ayampuc
+'01058': San Pedro Sacatepéquez
+'01060': San Raymundo
+'01051': Santa Catarina Pinula
+'01072': Santa Elena Barillas
+'01071': Trapiche Grande
+'01065': Villa Canales
+'01064': Villa Nueva
+'01070': Vuelta Grande
+'13027': Aguacatán
+'13026': Barillas
+'13040': Chalum
+'13002': Chiantla
+'13019': Colotenango
+'13022': Concepción
+'13004': Cuilco
+'13032': Gracias a Dios
+'13001': Huehuetenango
+'13009': Ixtahuacán
+'13007': Jacaltenango
+'13012': La Democracia
+'13011': La Libertad
+'13041': La Mesilla
+'13003': Malacatancito
+'13038': Michicoy
+'13005': Nentón
+'13037': Páquix
+'13036': Petatán
+'13039': San Andrés Huista
+'13024': San Antonio Huista
+'13029': San Gaspar Ixchil
+'13016': San Juan Atitán
+'13023': San Juan Ixcoy
+'13033': San Lorenzo
+'13035': San Marcos Huista
+'13034': San Martín Cuchumatán
+'13018': San Mateo Ixtatán
+'13013': San Miguel Acatán
+'13006': San Pedro Necta
+'13014': San Rafael La Independencia
+'13028': San Rafael Petzal
+'13025': San Sebastián Coatán
+'13020': San Sebastián Huehuetenango
+'13031': Santa Ana Huista
+'13010': Santa Bárbara
+'13017': Santa Eulalia
+'13030': Santiago Chimaltenango
+'13008': Soloma
+'13021': Tectitán
+'13015': Todos Santos Cuchumatán
+'18020': Bananera
+'18023': Buenos Aires
+'18008': Cayuga
+'18010': El Cinchado
+'18003': El Estor
+'18014': El Mitchal
+'18016': El Refugio
+'18007': El Rico
+'18012': Entre Ríos
+'18021': Fronteras
+'18011': Las Quebradas
+'18015': Las Viñas
+'18002': Lívingston
+'18005': Los Amates
+'18022': Mariscos
+'18004': Morales
+'18006': Playitas
+'18001': Puerto Barrios
+'18009': Quiriguá
+'18019': San Felipe
+'18017': Santa Inés
+'18013': Santo Tomás de Castilla
+'18018': Tenedores
+'21001': Jalapa
+'21008': Llano Grande
+'21007': Mataquescuintla
+'21006': Monjas
+'21005': San Carlos Alzatate
+'21003': San Luis Jilotepeque
+'21004': San Manuel Chaparrón
+'21002': San Pedro Pinula
+'22004': Agua Blanca
+'22005': Asunción Mita
+'22007': Atescatempa
+'22018': Ciudad Pedro de Alvarado
+'22011': Comapa
+'22013': Conguanco
+'22024': Contepeque
+'22009': El Adelanto
+'22023': El Ovejero
+'22002': El Progreso
+'22022': Horcones
+'22026': Horcones
+'22012': Jalpatagua
+'22008': Jerez
+'22001': Jutiapa
+'22025': La Esmeralda
+'22014': Moyuta
+'22015': Pasaco
+'22017': Quesada
+'22021': Río de Paz
+'22019': San Cristóbal Frontera
+'22016': San José Acatempa
+'22003': Santa Catarina Mita
+'22027': Tiúcal
+'22020': Valle Nuevo Jalpatagua
+'22006': Yupiltepeque
+'22010': Zapotitlán
+'17018': Carmelita
+'17008': Dolores
+'17014': Dos Lagunas
+'17020': El Chal
+'17024': El Naranjo
+'17022': El Remate
+'17001': Flores
+'17023': La Felicidad
+'17005': La Libertad
+'17027': Las Cruces
+'17021': Macanché
+'17019': Machaquilá
+'17011': Melchor de Mencos
+'17016': Paso Caballos
+'17026': Paxcamán
+'17012': Poptún
+'17028': Sabaneta
+'17025': Sacpuy
+'17004': San Andrés
+'17003': San Benito
+'17006': San Francisco
+'17002': San José
+'17009': San Luis
+'17007': Santa Ana
+'17029': Santa Elena
+'17015': Santo Toribio
+'17010': Sayaxché
+'17013': Tikal
+'17017': Uaxactún
+'09013': Almolonga
+'09006': Cabricán
+'09007': Cajolá
+'09014': Cantel
+'09026': Chiquibal
+'09031': Chuatuj
+'09020': Coatepeque
+'09017': Colomba
+'09011': Concepción Chiquirichapa
+'09028': CUICALBA
+'09030': El Edén
+'09019': El Palmar
+'09032': El Tambor
+'09022': Flores Costa Cuca
+'09021': Génova
+'09015': Huitán
+'09023': La Esperanza
+'09033': Las Mercedes
+'09027': Las Palmas
+'09003': Olintepeque
+'09009': Ostuncalco
+'09024': Palestina de los Altos
+'09034': Palmira
+'09001': Quetzaltenango
+'09002': Salcajá
+'09004': San Carlos Sija
+'09018': San Francisco La Unión
+'09029': San José Chiquilajá
+'09012': San Martín Sacatepéquez
+'09010': San Mateo
+'09008': San Miguel Sigüilá
+'09025': Santa María de Jesús
+'09005': Sibilia
+'09016': Zunil
+'14018': Canillá
+'14023': Cantabal
+'14005': Chajul
+'14020': Chicamán
+'14006': Chichicastenango
+'14003': Chinique
+'14010': Cunén
+'14012': Joyabaj
+'14013': Nebaj
+'14022': Pachalum
+'14007': Patzité
+'14019': Playa Grande
+'14002': Quiché
+'14016': Sacapulas
+'14014': San Andrés Sajcabajá
+'14008': San Antonio Ilotenango
+'14017': San Bartolomé Jocotenango
+'14024': San José
+'14011': San Juan Cotzal
+'14009': San Pedro Jocopilas
+'14001': Santa Cruz del Quiché
+'14021': Santa Rosa Chucuyub
+'14015': Uspantán
+'14025': Xacbal
+'14004': Zacualpa
+'11010': Caballo Blanco
+'11011': Candelaria Xolhuitz
+'11007': Champerico
+'11009': El Asintal
+'11013': El Xab
+'11014': La Máquina
+'11008': Nuevo San Carlos
+'11001': Retalhuleu
+'11006': San Andrés Villa Seca
+'11005': San Felipe
+'11004': San Martín Zapotitlán
+'11002': San Sebastián
+'11003': Santa Cruz Muluá
+'11012': Sinavba
+'03014': Alotenango
+'03001': Antigua Guatemala
+'03012': Ciudad Vieja
+'03002': Jocotenango
+'03010': Magdalena Milpas Altas
+'03003': Pastores
+'03015': San Antonio Aguas Calientes
+'03007': San Bartolomé Milpas Altas
+'03008': San Lucas Sacatepéquez
+'03013': San Miguel Dueñas
+'03016': Santa Catarina Barahona
+'03009': Santa Lucía Milpas Altas
+'03017': Santa María Cauqué
+'03011': Santa María de Jesús
+'03006': Santiago Sacatepéquez
+'03005': Santo Domingo Xenacoj
+'03004': Sumpango
+'12044': Calapté
+'12016': Catarina
+'12047': Champollap
+'12004': Comitancillo
+'12006': Concepción Tutuapa
+'12036': El Amparo
+'12030': El Carmen
+'12040': El Cielo
+'12020': El Quetzal
+'12014': El Rodeo
+'12050': El Sitio
+'12013': El Tumbador
+'12027': Esquipulas Palo Gordo
+'12023': Ixchiguán
+'12039': La Blanca
+'12046': La Conquista
+'12034': La Democracia
+'12021': La Reforma
+'12043': Las Delicias
+'12038': Los Limones
+'12042': Los Platanares
+'12015': Malacatán
+'12012': Nuevo Progreso
+'12018': Ocós
+'12022': Pajapita
+'12048': Piedra Grande
+'12028': Río Blanco
+'12003': San Antonio Sacatepéquez
+'12025': San Cristóbal Cucho
+'12035': San Francisco
+'12032': San Jerónimo
+'12041': San José Ixtal
+'12024': San José Ojetenán
+'12029': San Lorenzo
+'12001': San Marcos
+'12005': San Miguel Ixtahuacán
+'12019': San Pablo
+'12002': San Pedro Sacatepéquez
+'12011': San Rafael Pie de La Cuesta
+'12037': San Sebastián
+'12049': Santa Lucía Ixcamal
+'12033': Serchil
+'12008': Sibinal
+'12026': Sipacapa
+'12007': Tacaná
+'12009': Tajumulco
+'12017': Tecún Umán
+'12010': Tejutla
+'12045': Tocache
+'12031': Zanjón San Lorenzo
+'06018': Ayarza
+'06002': Barberena
+'06017': Casas Viejas
+'06004': Casillas
+'06027': Cerro Gordo
+'06008': Chiquimulilla
+'06001': Cuilapa
+'06015': El Ahumado
+'06019': El Molino
+'06026': El Rinconcito
+'06023': El Serinal
+'06011': Guazacapán
+'06016': Los Cerritos
+'06022': Los Esclavos
+'06024': Monterrico
+'06020': Nancinta
+'06014': Nueva Santa Rosa
+'06006': Oratorio
+'06013': Pueblo Nuevo Viñas
+'06025': San Juan de Arana
+'06007': San Juan Tecuaco
+'06021': San Miguel Aroche
+'06005': San Rafael Las Flores
+'06012': Santa Cruz Naranjo
+'06010': Santa María Ixhuatán
+'06003': Santa Rosa de Lima
+'06009': Taxisco
+'07022': Agua Escondida
+'07023': Argueta
+'07008': Concepción
+'07021': Godínez
+'07020': Los Encuentros
+'07005': Nahualá
+'07010': Panajachel
+'07024': Pixabaj
+'07009': San Andrés Semetabaj
+'07012': San Antonio Palopó
+'07002': San José Chacayá
+'07017': San Juan La Laguna
+'07013': San Lucas Tolimán
+'07016': San Marcos La Laguna
+'07015': San Pablo La Laguna
+'07018': San Pedro La Laguna
+'07006': Santa Catarina Ixtahuacán
+'07011': Santa Catarina Palopó
+'07007': Santa Clara La Laguna
+'07014': Santa Cruz La Laguna
+'07004': Santa Lucía Utatlán
+'07003': Santa María Visitación
+'07019': Santiago Atitlán
+'07001': Sololá
+'10028': Bolivia
+'10027': Bracitos
+'10013': Chicacao
+'10022': Chocolá
+'10021': Cocales
+'10002': Cuyotenango
+'10024': Guatalón
+'10030': La Máquina
+'10001': Mazatenango
+'10029': Monterrey
+'10025': Palo Gordo
+'10014': Patulul
+'10019': Pueblo Nuevo
+'10020': Río Bravo
+'10008': Samayac
+'10010': San Antonio Suchitepéquez
+'10004': San Bernardino
+'10003': San Francisco Zapotitlán
+'10012': San Gabriel
+'10005': San José El Ídolo
+'10016': San Juan Bautista
+'10007': San Lorenzo
+'10011': San Miguel Panán
+'10009': San Pablo Jocopilas
+'10026': San Rafael Panán
+'10015': Santa Bárbara
+'10006': Santo Domingo Suchitepéquez
+'10017': Santo Tomás La Unión
+'10023': Tahuexco
+'10018': Zunilito
+'08005': Momostenango
+'08004': San Andrés Xecul
+'08008': San Bartolo
+'08002': San Cristóbal Totonicapán
+'08003': San Francisco El Alto
+'08007': Santa Lucía La Reforma
+'08006': Santa María Chiquimula
+'08001': Totonicapán
+'19007': Cabañas
+'19002': Estanzuela
+'19004': Gualán
+'19010': Huité
+'19016': La Fragua
+'19011': La Reforma
+'19009': La Unión
+'19003': Río Hondo
+'19008': San Diego
+'19013': San Jorge
+'19012': San José
+'19017': San Pablo
+'19018': San Vicente
+'19015': Santa Lucía
+'19014': Santa Rosalía
+'19005': Teculután
+'19006': Usumatlán
+'19001': Zacapa

@@ -24,23 +24,15 @@ class PostalCode
   end
 
   def find_all_by_country_code(country_code)
-    @postal_codes[country_code] ||= process_postal_code_array(load_file(country_code))
+    @postal_codes[country_code] ||= load_file(country_code)
   end
 
   private
 
   def load_file(country_code)
-    YAML.load_file("#{self_path}/postal_code_data/#{country_code}.yaml").sort_by { |postal_pair| postal_pair['postal_codes'] }
+    YAML.load_file("#{self_path}/postal_code_data/#{country_code}.yaml")
   rescue Errno::ENOENT
     raise UnknownCountry
-  end
-
-  def process_postal_code_array(postal_codes)
-    postal_code_hash = {}
-    postal_codes.each do |code|
-      postal_code_hash[code['postal_code']] = code['postal_name']
-    end
-    postal_code_hash
   end
 
   def self_path
