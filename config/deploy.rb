@@ -7,6 +7,7 @@ set :deploy_to, "/var/www/#{application}"
 set :use_sudo, false
 set :deploy_via, :copy
 set :normalize_asset_timestamps, false
+set :unicorn_pid, "#{deploy_to}/shared/pids/unicorn.pid"
 
 role :web, "postal01.lokalebasen.dk"                          # Your HTTP server, Apache/etc
 role :app, "postal01.lokalebasen.dk"                          # This may be the same as your `Web` server
@@ -16,14 +17,11 @@ role :app, "postal01.lokalebasen.dk"                          # This may be the 
 # if you want to clean up old releases on each deploy uncomment this:
 # after "deploy:restart", "deploy:cleanup"
 
-# if you're still using the script/reaper helper you will need
-# these http://github.com/rails/irs_process_scripts
-
 # If you are using Passenger mod_rails uncomment this:
-# namespace :deploy do
-#   task :start do ; end
-#   task :stop do ; end
-#   task :restart, :roles => :app, :except => { :no_release => true } do
-#     run "#{try_sudo} touch #{File.join(current_path,'tmp','restart.txt')}"
-#   end
-# end
+namespace :deploy do
+  task :start do ; end
+  task :stop do ; end
+  task :restart, :roles => :app, :except => { :no_release => true } do
+    run "kill -s USR2 `cat #{unicorn_pid}`"
+  end
+end
