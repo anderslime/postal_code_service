@@ -1,5 +1,48 @@
 ---
+'0555': Scanning
+'0800': Høje Taastrup
+'0877': København C
+'0892': Sjælland USF P
+'0893': Sjælland USF B
+'0894': Udbetaling
+'0897': eBrevsprækken
+'0899': Kommuneservice
+'0900': København C
+'0910': København C
+'0917': Københavns Pakkecenter
+'0918': Københavns Pakke BRC
+'0919': Returprint BRC
+'0929': København C
+'0960': Internationalt Postcenter
+'0999': København C
 '1000': København K
+'1001': København K
+'1002': København K
+'1003': København K
+'1004': København K
+'1005': København K
+'1006': København K
+'1007': København K
+'1008': København K
+'1009': København K
+'1010': København K
+'1011': København K
+'1012': København K
+'1013': København K
+'1014': København K
+'1015': København K
+'1016': København K
+'1017': København K
+'1018': København K
+'1019': København K
+'1020': København K
+'1021': København K
+'1022': København K
+'1023': København K
+'1024': København K
+'1025': København K
+'1026': København K
+'1045': København K
 '1050': København K
 '1051': København K
 '1052': København K
@@ -48,6 +91,7 @@
 '1118': København K
 '1119': København K
 '1120': København K
+'1121': København K
 '1122': København K
 '1123': København K
 '1124': København K
@@ -74,6 +118,7 @@
 '1160': København K
 '1161': København K
 '1162': København K
+'1163': København K
 '1164': København K
 '1165': København K
 '1166': København K
@@ -98,6 +143,7 @@
 '1209': København K
 '1210': København K
 '1211': København K
+'1212': København K
 '1213': København K
 '1214': København K
 '1215': København K
@@ -116,6 +162,7 @@
 '1255': København K
 '1256': København K
 '1257': København K
+'1258': København K
 '1259': København K
 '1260': København K
 '1261': København K
@@ -183,6 +230,7 @@
 '1401': København K
 '1402': København K
 '1403': København K
+'1404': København K
 '1406': København K
 '1407': København K
 '1408': København K
@@ -231,16 +279,31 @@
 '1458': København K
 '1459': København K
 '1460': København K
+'1461': København K
 '1462': København K
 '1463': København K
 '1464': København K
+'1465': København K
 '1466': København K
 '1467': København K
 '1468': København K
 '1470': København K
 '1471': København K
 '1472': København K
+'1473': København K
 '1500': København V
+'1501': København V
+'1502': København V
+'1503': København V
+'1504': København V
+'1505': København V
+'1506': København V
+'1507': København V
+'1508': København V
+'1509': København V
+'1510': København V
+'1512': Returpost
+'1513': Centraltastning
 '1532': København V
 '1533': København V
 '1550': København V
@@ -277,6 +340,7 @@
 '1602': København V
 '1603': København V
 '1604': København V
+'1605': København V
 '1606': København V
 '1607': København V
 '1608': København V
@@ -345,6 +409,7 @@
 '1710': København V
 '1711': København V
 '1712': København V
+'1713': København V
 '1714': København V
 '1715': København V
 '1716': København V
@@ -397,6 +462,7 @@
 '1775': København V
 '1777': København V
 '1780': København V
+'1782': København V
 '1785': København V
 '1786': København V
 '1787': København V
@@ -431,6 +497,7 @@
 '1827': Frederiksberg C
 '1828': Frederiksberg C
 '1829': Frederiksberg C
+'1835': Frederiksberg C
 '1850': Frederiksberg C
 '1851': Frederiksberg C
 '1852': Frederiksberg C
@@ -484,6 +551,7 @@
 '1926': Frederiksberg C
 '1927': Frederiksberg C
 '1928': Frederiksberg C
+'1931': Frederiksberg C
 '1950': Frederiksberg C
 '1951': Frederiksberg C
 '1952': Frederiksberg C
@@ -509,6 +577,7 @@
 '1974': Frederiksberg C
 '2000': Frederiksberg
 '2100': København Ø
+'2150': Nordhavn
 '2200': København N
 '2300': København S
 '2400': København NV
@@ -605,6 +674,7 @@
 '4060': Kirke Såby
 '4070': Kirke Hyllinge
 '4100': Ringsted
+'4129': Ringsted
 '4130': Viby Sjælland
 '4140': Borup
 '4160': Herlufmagle
@@ -720,7 +790,10 @@
 '4970': Rødby
 '4983': Dannemare
 '4990': Sakskøbing
+'4992': Midtsjælland USF P
 '5000': Odense C
+'5029': Odense C
+'5100': Odense C
 '5200': Odense V
 '5210': Odense NV
 '5220': Odense SØ
@@ -838,6 +911,7 @@
 '6683': Føvling
 '6690': Gørding
 '6700': Esbjerg
+'6701': Esbjerg
 '6705': Esbjerg Ø
 '6710': Esbjerg V
 '6715': Esbjerg N
@@ -877,6 +951,8 @@
 '6990': Ulfborg
 '7000': Fredericia
 '7007': Fredericia
+'7017': Taulov Pakkecenter
+'7029': Fredericia
 '7080': Børkop
 '7100': Vejle
 '7120': Vejle Øst
@@ -902,6 +978,7 @@
 '7361': Ejstrupholm
 '7362': Hampen
 '7400': Herning
+'7429': Herning
 '7430': Ikast
 '7441': Bording
 '7442': Engesvang
@@ -942,11 +1019,18 @@
 '7970': Redsted M
 '7980': Vils
 '7990': Øster Assels
-'800': Høje Taastrup
+'7992': Sydjylland/Fyn USF P
+'7993': Sydjylland/Fyn USF B
+'7996': Fakturaservice
+'7997': Fakturascanning
+'7998': Statsservice
+'7999': Kommunepost
 '8000': Aarhus C
+'8100': Aarhus C
 '8200': Aarhus N
 '8210': Aarhus V
 '8220': Brabrand
+'8229': Risskov Ø
 '8230': Åbyhøj
 '8240': Risskov
 '8245': Risskov Ø
@@ -1036,9 +1120,9 @@
 '8981': Spentrup
 '8983': Gjerlev J
 '8990': Fårup
-'900': København C
 '9000': Aalborg
-'917': Københavns Pakkecent
+'9029': Aalborg
+'9100': Aalborg
 '9200': Aalborg SV
 '9210': Aalborg SØ
 '9220': Aalborg Øst
@@ -1076,7 +1160,6 @@
 '9560': Hadsund
 '9574': Bælum
 '9575': Terndrup
-'960': Udland
 '9600': Aars
 '9610': Nørager
 '9620': Aalestrup
@@ -1100,5 +1183,9 @@
 '9970': Strandby
 '9981': Jerup
 '9982': Ålbæk
-'999': København C
 '9990': Skagen
+'9992': Jylland USF P
+'9993': Jylland USF B
+'9996': Fakturaservice
+'9997': Fakturascanning
+'9998': Borgerservice
